@@ -13,7 +13,7 @@ Hello! I am a M.S. student at KAIST AI, advised by Prof. Edward Choi. I received
 
 ## News
 
-- **[Feb. 2026]** Our paper has been accepted to CVPR 2026!.
+- **[Feb. 2026]** Our paper has been accepted to CVPR 2026!
 
 {% include_relative _includes/publications.md %}
 
