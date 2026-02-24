@@ -1,34 +1,32 @@
 main:
-
-  - title: Instruction-Guided Lesion Segmentation for Chest X-rays with Automatically Generated Large-Scale Dataset
-    authors: <strong>Geon Choi*</strong>, Hangyul Yoon*, Hyunju Shin, Hyunki Park, Sang Hoon Seo, Eunho Yang, Edward Choi (*Equal Contribution)
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+  - title: "Instruction-Guided Lesion Segmentation for Chest X-rays with Automatically Generated Large-Scale Dataset"
+    authors: "<strong>Geon Choi*</strong>, Hangyul Yoon*, Hyunju Shin, Hyunki Park, Sang Hoon Seo, Eunho Yang, Edward Choi (*Equal Contribution)"
+    conference_short: "CVPR"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026."
     pdf: https://arxiv.org/abs/2511.15186.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
-  - title: CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays
-    authors: Hyungyung Lee, <strong>Geon Choi</strong>, Jung-Oh Lee, Hangyul Yoon, Hyuk Gi Hong, Edward Choi
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong> Datasets and Benchmarks, 2025.
+  - title: "CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays"
+    authors: "Hyungyung Lee, <strong>Geon Choi</strong>, Jung-Oh Lee, Hangyul Yoon, Hyuk Gi Hong, Edward Choi"
+    conference_short: "NeurIPS"
+    conference: "Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong> Datasets and Benchmarks, 2025."
     pdf: https://arxiv.org/abs/2505.18087.pdf
     code: https://github.com/ttumyche/CXReasonBench
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/teaser_example_2.png
-    notes: Spotlight
+    notes: "Spotlight"
 
-  - title: Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation
-    authors: Jong Hak Moon, <strong>Geon Choi</strong>, Paloma Rabaey, Min Gwan Kim, Hyuk Gi Hong, Jung-Oh Lee, Hangyul Yoon, Eun Woo Doe, Jiyoun Kim, Harshita Sharma, Daniel C. Castro, Javier Alvarez-Valle, Edward Choi
+  - title: "Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation"
+    authors: "Jong Hak Moon, <strong>Geon Choi</strong>, Paloma Rabaey, Min Gwan Kim, Hyuk Gi Hong, Jung-Oh Lee, Hangyul Yoon, Eun Woo Doe, Jiyoun Kim, Harshita Sharma, Daniel C. Castro, Javier Alvarez-Valle, Edward Choi"
     #conference_short:
-    conference: Preprint, 2025.
+    conference: "Preprint, 2025."
     pdf: https://arxiv.org/abs/2505.21190.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
-
   
 
