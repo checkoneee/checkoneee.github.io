@@ -8,8 +8,7 @@ Hello! I am a M.S. student at KAIST AI, advised by Prof. Edward Choi. I received
 
 ## Research Interests
 
-- **Multimodal Learning**
-- **Machine Learning for Healthcare**
+My goal as a researcher is to develop an independent AI radiologist. My primary research interests lie in **Multimodal Learning** and **Machine Learning for Healthcare**. Additionally, I have a strong interest in broader **Computer Vision** topics, particularly generative modeling.
 
 ## News
 
