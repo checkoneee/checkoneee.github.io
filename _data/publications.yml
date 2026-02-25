@@ -16,7 +16,7 @@ main:
     pdf: https://arxiv.org/abs/2505.18087.pdf
     code: https://github.com/ttumyche/CXReasonBench
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/CXReasonBench.jpg
     notes: "Spotlight"
 
   - title: "Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation"
