@@ -6,7 +6,7 @@ main:
     pdf: https://arxiv.org/abs/2511.15186.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/ILS.png
     #notes: Early Accept
 
   - title: "CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays"
