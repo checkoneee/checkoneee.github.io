@@ -17,7 +17,7 @@ main:
     code: https://github.com/ttumyche/CXReasonBench
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/CXReasonBench.jpg
-    notes: "Spotlight"
+    notes: "Spotlight Presentation (63/1995=3.2%)"
 
   - title: "Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation"
     authors: "Jong Hak Moon, <strong>Geon Choi</strong>, Paloma Rabaey, Min Gwan Kim, Hyuk Gi Hong, Jung-Oh Lee, Hangyul Yoon, Eun Woo Doe, Jiyoun Kim, Harshita Sharma, Daniel C. Castro, Javier Alvarez-Valle, Edward Choi"
