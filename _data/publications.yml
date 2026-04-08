@@ -4,7 +4,7 @@ main:
     conference_short: "CVPR"
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026."
     pdf: https://arxiv.org/abs/2511.15186.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/checkoneee/ROSALIA
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ILS.png
     #notes: Early Accept
