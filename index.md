@@ -12,7 +12,8 @@ My goal as a researcher is to develop an independent AI radiologist. My primary 
 
 ## News
 
+- **[Apr. 2026]** A paper (Lunguage) is accepted to CHIL 2026.
 - **[Mar. 2026]** I started Ph.D. at KAIST AI.
-- **[Feb. 2026]** Our paper (ILS) is accepted to CVPR 2026.
+- **[Feb. 2026]** A paper (ILS) is accepted to CVPR 2026.
 
 {% include_relative _includes/publications.md %}
