@@ -2,7 +2,7 @@ main:
   - title: "Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation"
     authors: "Jong Hak Moon, <strong>Geon Choi</strong>, Paloma Rabaey, Min Gwan Kim, Hyuk Gi Hong, Jung-Oh Lee, Hangyul Yoon, Eun Woo Doe, Jiyoun Kim, Harshita Sharma, Daniel C. Castro, Javier Alvarez-Valle, Edward Choi"
     conference_short: "CHIL"
-    conference: "Conference on Health, Inference, and Learning, 2026."
+    conference: "Conference on Health, Inference, and Learning <strong>(CHIL)</strong>, 2026."
     pdf: https://arxiv.org/abs/2505.21190.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
