@@ -4,7 +4,7 @@ main:
     conference_short: "CHIL"
     conference: "Conference on Health, Inference, and Learning <strong>(CHIL)</strong>, 2026."
     pdf: https://arxiv.org/abs/2505.21190.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/SuperSupermoon/Lunguage
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Lunguage.png
     #notes: Early Accept
