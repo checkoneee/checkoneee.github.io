@@ -8,7 +8,7 @@ Hello! I am a first-year Ph.D. student at KAIST AI, advised by Prof. Edward Choi
 
 ## Research Interests
 
-My primary research interests lie in **Multimodal Learning** and **Machine Learning for Healthcare**. Additionally, I have a strong interest in broader **Computer Vision** topics, particularly generative modeling.
+My primary research interests lie in **Multimodal Learning** and **Machine Learning for Healthcare**. Additionally, I have a strong interest in broader **Computer Vision** topics, particularly **Generative modeling**.
 
 ## News
 
