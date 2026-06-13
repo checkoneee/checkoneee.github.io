@@ -207,7 +207,6 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
     }
 
       .image.avatar:before {
@@ -215,8 +214,8 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
+        width: 80%;
+        height: auto;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -499,8 +498,8 @@ footer {
 
 
    .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
+        width: 180px;
+        height: auto;
         padding:20px;
       }
   #head1o2 {
@@ -555,8 +554,8 @@ footer {
   }
 
   .image.avatar img {
-      border-radius: 100%;
-      width: 95px;
+      width: 150px;
+      height: auto;
       padding:20px;
   }
   #head1o2 {
