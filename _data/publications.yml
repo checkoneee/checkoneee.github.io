@@ -30,5 +30,9 @@ main:
     image: ./assets/img/CXReasonBench.jpg
     notes: "Spotlight Presentation (63/1995=3.2%)"
 
-  
+preprints:
+  - title: "CheXpercept: A Benchmark for Evaluating Expert-Level Lesion Perception in Chest X-rays"
+    authors: "<strong>Geon Choi</strong>, Hangyul Yoon, Nalee Kim, Jeong Yun Jang, Hyunju Shin, Hyunki Park, Sang Hoon Seo, Edward Choi"
+    conference_short: "Preprint"
+    conference: "Under Review."
 
