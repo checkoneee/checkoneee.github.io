@@ -36,6 +36,6 @@ preprints:
     conference_short: "Preprint"
     conference: "Under Review."
     pdf: https://arxiv.org/abs/2606.21020
-    image: ./assets/img/preprint_placeholder.png
+    image: ./assets/img/CheXpercept.png
     
 
