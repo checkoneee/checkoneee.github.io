@@ -31,6 +31,13 @@ main:
     notes: "Spotlight Presentation (63/1995=3.2%)"
 
 preprints:
+  - title: "XFlow: A Workflow Model for Instruction-Guided Lesion Segmentation in Chest X-rays"
+    authors: "<strong>Geon Choi</strong>, Hangyul Yoon, Hyunki Park, Sang Hoon Seo, Edward Choi"
+    conference_short: "Preprint"
+    conference: "Under Review."
+    pdf: https://arxiv.org/abs/2609.34513
+    image: ./assets/img/XFlow.png
+
   - title: "CheXpercept: A Benchmark for Evaluating Expert-Level Lesion Perception in Chest X-rays"
     authors: "<strong>Geon Choi</strong>, Hangyul Yoon, Nalee Kim, Jeong Yun Jang, Hyunju Shin, Hyunki Park, Sang Hoon Seo, Edward Choi"
     conference_short: "Preprint"
